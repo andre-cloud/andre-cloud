@@ -1,3 +1,9 @@
+### I'm an Organic/Computational chemist. 
+
+I enjoy a lot messing around with coding
+
+- I'm currently working in [Asymmetric-lab](https://github.com/asymmetric-lab)
+
 <!--
 
 ### Hi there 👋
