@@ -2,12 +2,12 @@
 
 I enjoy a lot messing around with coding
 
-- I'm currently working in [Asymmetric-lab](https://github.com/asymmetric-lab)
+I'm currently working in [Asymmetric-lab](https://github.com/asymmetric-lab)
+
+
 
 <!--
-
 ### Hi there 👋
-
 
 **andre-cloud/andre-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
