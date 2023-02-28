@@ -4,7 +4,7 @@ I enjoy a lot messing around with coding
 
 I'm currently working in [Asymmetric-lab](https://github.com/asymmetric-lab)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-cloud&show_icons=true&theme=dracula)
 
 <!--
 ### Hi there 👋
