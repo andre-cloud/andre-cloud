@@ -18,8 +18,8 @@ I am an Organic Computational Chemist<br>I enjoy a lot messing around with codin
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andre-cloud&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=andre-cloud&theme=dark&hide_border=true)
+<!--![](https://github-readme-stats.vercel.app/api?username=andre-cloud&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=andre-cloud&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-cloud&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 
 
