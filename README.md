@@ -19,8 +19,8 @@ I am an Organic Computational Chemist<br>I enjoy a lot messing around with codin
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andre-cloud&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=andre-cloud&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-cloud&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=andre-cloud&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-cloud&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 
 
 
