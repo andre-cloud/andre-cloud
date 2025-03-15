@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Organic Computational Chemist<br>I enjoy a lot messing around with coding<br><br>I'm currently working in [Asymmetric-lab](https://github.com/asymmetric-lab)
+I am an Organic Computational Chemist<br>I enjoy a lot messing around with coding<br><br>I'm currently a PhD student in [PAC Lab](https://github.com/asymmetric-lab) in Bologna🇮🇹 and visiting PhD student in [Grimme group](https://github.com/grimme-lab) in Bonn🇩🇪
 
 
 ## 🌐 Socials:
